@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TripProject</string>
+    <string name="item_name_req">Trip <font color='#FF0000'>*</font></string>
+    <string name="item_destination_req">Destination <font color='#FF0000'>*</font></string>
+    <string name="item_date_req">Click Choose Date <font color='#FF0000'>*</font></string>
+    <string name="item_risk_req">Risk Evaluate </string>
+    <string name="item_note_req">Note Trip <font color='#FF0000'>*</font></string>
+    <string name="item_services_req">Choose Service <font color='#FF0000'>*</font> </string>
+    <string name="save_action">Save Trip</string>
+    <string name="tripsTitle"> List All Trip </string>
+    <string name="edit_action">Edit Trip</string>
+    <string name="addExpenses"> Costs incurred</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_typeOfExpense_req">Type of Expense <font color='#FF0000'>*</font></string>
+    <string name="item_amountExpense_req">Amount of Expenses <font color='#FF0000'>*</font></string>
+    <string name="item_time_req">Time of the Expenses <font color='#FF0000'>*</font></string>
+    <string name="item_comment_req">Comment <font color='#FF0000'>*</font></string>
+    <string name="expensesTitle">List all expenses </string>
+
+</resources>
